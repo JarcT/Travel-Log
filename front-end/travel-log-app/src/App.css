@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap');
+
+.map-pin{
+  stroke: black;
+  fill: rgb(255, 208, 0);
+  cursor: pointer;
+}
+
+.popup{
+  width: 350px;
+}
+.popup-text{
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+}
+.form{
+  padding: .3rem;
+  display: flex;
+  flex-direction: column;
+}
+.form button{
+  margin-top: .4rem;
+  cursor: pointer;
+}

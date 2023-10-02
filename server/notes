@@ -1,0 +1,10 @@
+Travel Log App
+
+- Travel log must include:
+    -required: title, dateVisited, longitude, latitude
+    -optional:  description, dateVisited, image
+- User must be able to:
+    -see all the logged locations
+    -imput a new location
+    -update an existing location
+    -delete a location
